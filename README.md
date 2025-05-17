@@ -1,4 +1,4 @@
-# Brocard Problem
+# The all known solution formula of Brocard Problem
 
 $$
   n!+1=m^2

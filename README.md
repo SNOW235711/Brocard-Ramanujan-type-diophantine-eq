@@ -1,0 +1,1 @@
+# Brocard-Ramanujan-type-diophantine-eq
